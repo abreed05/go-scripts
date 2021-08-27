@@ -1,0 +1,12 @@
+---
+agent:
+  client:
+    hostname: test2
+    diskpath: /
+  database:
+    host: 127.0.0.1
+    port: 27017
+    name: monitor
+    username: monuser
+    password: password
+    collection: metrics
